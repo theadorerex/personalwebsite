@@ -1,0 +1,15 @@
+# Site Settings
+title: Bennett's Dream World
+email: theadorerex@gmail.com
+description: >
+  A guide to getting started with Jekyll.
+baseurl: "/personalwebsite"
+url: "http://theadorerex.github.io"
+twitter_username:
+github_username:  theadorerex
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
