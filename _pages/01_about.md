@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-_I leave you my dream._
+_ ~~ I leave you my dream. ~~ Osho Rajneesh ~~ _
 
 Hello,
 
