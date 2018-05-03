@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When to Think of Love"
-date:   2018-5-3 00:32:45
+date:   2018-05-03 00:32:45
 categories: meditation
 ---
 
