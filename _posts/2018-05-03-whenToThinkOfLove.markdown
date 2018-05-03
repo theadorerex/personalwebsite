@@ -4,8 +4,6 @@ title:  "When to Think of Love"
 date:   2018-05-03 00:32:45
 categories: meditation
 ---
-
-
 One of the best lessons I learned from my friend [Shantji][shantji] is to always have a resting thought. When nothing needs to be done, return your attention to some predetermined object of focus. This is basically 24/7 mindfulness meditation, and it helps the body relax throughout the day.
 
 Most meditation teachers will tell you, “It doesn’t matter where you rest your attention, just pick something and stick with it.” But I’m here to say, not all resting thoughts have the same effect on the body.
