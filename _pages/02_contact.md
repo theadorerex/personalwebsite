@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+You are free to contact me if you ever want to chat.
 
-My e-mail is [email@something.com](mailto:email@something.com).
+My e-mail is theadorerex@gmail.com.
